@@ -120,7 +120,7 @@ bash monitoring/health_check.sh
 | **YouTube Data API v3** | Shorts upload with scheduling |
 | **TikTok Content Posting API** | Auto-upload with OAuth2 |
 | **LINE Notify API** | Health check alerts |
-| **Oracle Cloud VPS** | 24/7 stream hosting |
+| **Google Cloud VPS** | 24/7 stream hosting |
 
 ## 🔒 Security
 
