@@ -1,0 +1,13 @@
+config.json
+*.key
+*.pem
+token.json
+client_secret.json
+tiktok_token.json
+output/
+*.wav
+*.mp3
+*.mp4
+*.png
+*.jpg
+__pycache__/

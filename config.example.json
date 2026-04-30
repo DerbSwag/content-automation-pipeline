@@ -1,0 +1,13 @@
+{
+  "content_dir": "/opt/app/content",
+  "output_dir": "/opt/app/output",
+  "vps": {
+    "host": "YOUR_VPS_IP",
+    "user": "YOUR_USER",
+    "key_file": "~/.ssh/id_rsa"
+  },
+  "stream": {
+    "rtmp_url": "rtmp://YOUR_STREAM_SERVER/live",
+    "stream_key": "YOUR_STREAM_KEY"
+  }
+}
