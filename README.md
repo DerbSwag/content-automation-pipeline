@@ -4,17 +4,6 @@ End-to-end automation system for content creation, processing, and multi-platfor
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📸 Results (Live Channel)
-
-![YouTube Videos](assets/youtube-videos.png)
-*Long-form lo-fi mixes published automatically via pipeline*
-
-![YouTube Shorts](assets/youtube-shorts.png)
-*Auto-generated shorts with AI metadata — distributed daily*
-
-![YouTube Analytics](assets/youtube-analytics.png)
-*Realtime performance dashboard — content published and gaining views automatically*
-
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
