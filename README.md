@@ -43,6 +43,23 @@ Raw Media
               └──► Health Check → LINE Alert
 ```
 
+```mermaid
+graph TD
+    Raw[Raw Media] --> Scan[Scan Input Dir]
+    Scan --> Process[FFmpeg Processing]
+    Process --> Covers[Generate Covers - Pillow]
+    Process --> Metadata[AI Metadata Generation]
+    Process --> Clips[Create Clips]
+    Clips --> Upload[Upload to VPS]
+    Upload --> PlatformA[Platform A - Shorts]
+    Upload --> PlatformB[Platform B - Content]
+    Upload --> Stream[Live Stream - RTMP]
+    Stream --> Health[Health Check]
+    Health --> LINE[LINE Alert]
+```
+
+
+
 ## 📁 Project Structure
 
 ```
