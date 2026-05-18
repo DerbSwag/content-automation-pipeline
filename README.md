@@ -1,4 +1,4 @@
-# 🔄 Content Automation Pipeline
+﻿# 🔄 Content Automation Pipeline
 
 End-to-end automation system for content creation, processing, and multi-platform distribution. Handles the full lifecycle from raw media to published content across multiple platforms — fully automated.
 
@@ -20,6 +20,19 @@ End-to-end automation system for content creation, processing, and multi-platfor
 | Monitor stream manually | **Health check** with auto-alert via LINE |
 | Set up servers from scratch | **VPS provisioning script** — one command |
 
+
+## 📈 Results
+
+| Metric | Value |
+|--------|-------|
+| Pipeline steps automated | **7** (scan → process → metadata → covers → upload → distribute → schedule) |
+| Stream uptime | **24/7** with auto-restart on failure |
+| Platforms supported | **3** (YouTube Shorts, TikTok, RTMP live) |
+| Manual work eliminated | ~2 hrs/batch → **one command** |
+| Health monitoring | Stream check + **LINE alert** on failure |
+| VPS provisioning | From scratch to running in **<10 min** |
+
+---
 ## 🏗️ Architecture
 
 ```
